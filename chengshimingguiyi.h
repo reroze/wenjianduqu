@@ -1,0 +1,1 @@
+void chengshimingguiyi(float*t, char*s);
